@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Criação de arco" id="22BD9973-684A-D19C-4440-42F7F9464960" version="3.5">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2023-10-19 12:06:14 UTC</createdTime>
+<ownerDesignName>Criação de arco</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>22BD9973-684A-D19C-4440-42F7F9464960</designId>
+</OSDM_Design>

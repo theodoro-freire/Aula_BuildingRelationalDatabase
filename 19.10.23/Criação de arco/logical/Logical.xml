@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="8332A173-EB40-45A1-6078-A3B8833DE855" mainViewID="C5EBE285-8377-2B03-90E6-5F5A4E8832D1">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2023-10-19 12:06:14 UTC</createdTime>
+<ownerDesignName>Criação de arco</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

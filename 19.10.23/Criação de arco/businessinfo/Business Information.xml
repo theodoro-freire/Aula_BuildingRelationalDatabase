@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="E55039C1-BDD3-F0EB-8E8B-559527058BEB">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2023-10-19 12:06:14 UTC</createdTime>
+<ownerDesignName>Criação de arco</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>
